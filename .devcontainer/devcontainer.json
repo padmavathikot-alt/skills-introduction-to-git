@@ -10,7 +10,7 @@
           "**/.git": true,
           "**/.codespaces": true,
           "**/exercise-monitor.log": true,
-          // This variable is not dynamic. It is replaced by workflow 0-start-exercise.yml
+          // This variable is not dynamic. It is replaced with workflow 0-start-exercise.yml
           "**/skills-introduction-to-git": true
         },
 
